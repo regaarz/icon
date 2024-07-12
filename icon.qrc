@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="icon_">
+    <file>icon/icons8-pause-50 (1).png</file>
+    <file>icon/icons8-forward-64.png</file>
+    <file>icon/icons8-backward-32.png</file>
+  </qresource>
+</RCC>
